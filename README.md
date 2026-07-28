@@ -31,6 +31,14 @@ Stack
 React, TypeScript, Vite, deployed on Vercel. Supabase and Postgres for data, auth, and storage, with row-level security on every table. Gemini for generation and embeddings, with a reranking step, for the code research. Mapbox for site maps. Resend for email. Hosted GPU image models for rendering.
 
 Screenshots
+<img width="1816" height="1225" alt="Sample Home Page" src="https://github.com/user-attachments/assets/85fcafdc-f999-4314-8341-a3e9af97cd2e" />
+<img width="1816" height="1225" alt="Sample Map View" src="https://github.com/user-attachments/assets/107c5e37-b9d2-45c2-9a48-529ef3a717f8" />
+<img width="1816" height="1225" alt="Sample Project Page" src="https://github.com/user-attachments/assets/412a3035-0476-4d69-a1f3-01f549a807e1" />
+<img width="1816" height="1225" alt="Sample Timeline" src="https://github.com/user-attachments/assets/223cdf4b-ff34-4d75-a5ca-3a0d1aaee473" />
+<img width="1816" height="1225" alt="Sample Code Reseach" src="https://github.com/user-attachments/assets/891e91b2-1d2c-44bd-b7ce-ac70f501123f" />
+<img width="1816" height="1225" alt="Sample Code Reseach 2" src="https://github.com/user-attachments/assets/371c9aae-69c2-48f2-bf61-76bf5ea25729" />
+<img width="1816" height="1225" alt="Sample Rendering Flow" src="https://github.com/user-attachments/assets/4e0734f2-916e-4249-aec6-94cc175784a0" />
+
 
 Sample Home Page Sample Map View Sample Project Page Sample Timeline Sample Code Reseach 2 Sample Code Reseach Sample Rendering Flow
 A note on the code
